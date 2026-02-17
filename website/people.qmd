@@ -4,149 +4,157 @@ toc: false
 freeze: true
 ---
 
-::: {.column-page}
-::: {layout="[1,1]" layout-valign="center"}
-
+:::::::::::::::::::::::::: column-page
+:::: {layout="[1,1]" layout-valign="center"}
 ![](files/md.jpg)
 
-::: {}
+<div>
+
 ### Mary Donovan
+
 #### Principal Investigator
 
 Dr. Mary Donovan is the principal investigator of the Donovan Lab and a tenure-track faculty member of the Hawai‘i Institute of Marine Biology at UH Mānoa. Dr. Donovan is a quantitative spatial ecologist focused on applied questions that inform conservation and management of coupled human-natural systems. She studies coral reef status and trends by applying quantitative spatial science alongside practitioners and stakeholders who are implementing management and policy. Her research includes studies on complex ecological dynamics, local and global impacts on reefs, marine spatial planning, invasive species, fisheries, and ecological resilience.
 
 mdono\[at\]hawaii.edu
-:::
 
-:::
+</div>
+::::
 
-***
+------------------------------------------------------------------------
 
-::: {.column-page}
-::: {layout="[1,1]" layout-valign="center"}
-
+::::::::::::::::::::::: column-page
+:::: {layout="[1,1]" layout-valign="center"}
 ![](files/mp.jpeg)
 
-::: {}
+<div>
+
 ### Morgan Pomeroy
+
 #### PhD Student
 
 Morgan Pomeroy is a PhD student in the Donovan Lab. She received her MSc in Marine Biology from the University of Hawai‘i at Mānoa, where she studied coral reef fish life history. She recieved a second MS in Geography from Arizona State University. Her research focuses on assessing how corals respond to the influence of local anthropogenic and environmental factors during large-scale heat stress events in Hawaiʻi and the Caribbean. In light of rising ocean temperatures, Morgan is interested in deepening understanding of how management intervention can foster coral reef resilience.
 
 mwinston\[at\]hawaii.edu
-:::
 
-:::
+</div>
+::::
 
-***
+------------------------------------------------------------------------
 
-::: {.column-page}
-::: {layout="[1,1]" layout-valign="center"}
-
+:::::::::::::::::::: column-page
+:::: {layout="[1,1]" layout-valign="center"}
 ![](files/mb.jpg)
 
-::: {}
+<div>
+
 ### Madeline Berger
+
 #### PhD Student
 
 Maddie Berger is a graduate student in the Donovan Lab working toward her PhD. She focuses on data products for use in active ocean planning and management processes in Hawaii. Maddie previously worked for the National Center of Ecological Analysis and Synthesis supporting international marine spatial planning projects and researching land-based pollution impacts to tropical marine ecosystems. She has an M.S. from University of California Santa Barbara and a B.A. in Economics from UCLA.
 
 mmtb\[at\]hawaii.edu
-:::
 
-:::
+</div>
+::::
 
-***
+------------------------------------------------------------------------
 
-::: {.column-page}
-::: {layout="[1,1]" layout-valign="center"}
-
+::::::::::::::::: column-page
+:::: {layout="[1,1]" layout-valign="center"}
 ![](files/cs.jpg)
 
-::: {}
+<div>
+
 ### Callie Stephenson
+
 #### PhD Student
 
 Callie Stephenson is a PhD student in the Donovan Lab. Her chief research interests are in the reciprocity of ecological systems - how fish communities interact with benthic communities and what place humans have in these interactions. As part of the socio-ecological community, Callie focuses on how management can help ecosystems function and provide ecosystem services. She recently finished her MSc in Marine Biology at the University of Hawaiʻi at Mānoa in the Donahue Lab, and has previously worked on contract for the Division of Aquatic Resources and multiple conservation non-profits. Outside of our lab, you’ll also find her in the ocean as the Marine Science Supervisor at Mālama Pūpūkea-Waimea.
 
 callies\[at\]hawaii.edu
-:::
 
-:::
+</div>
+::::
 
-***
+------------------------------------------------------------------------
 
-::: {.column-page}
-::: {layout="[1,1]" layout-valign="center"}
-
+:::::::::::::: column-page
+:::: {layout="[1,1]" layout-valign="center"}
 ![](files/jr.jpg)
 
-::: {}
+<div>
+
 ### Jake Reichard
+
 #### MS Student
 
 Jake Reichard is a Master’s student in the Donovan Lab. He received his BS in Marine Biology from the University of Hawaiʻi at Mānoa. His research focuses on monitoring the nearshore reef fish assemblages over time in Maunalua Bay. This work is also part of his current position as an Aquatic Biologist for the Division of Aquatic Resources (DAR) where he contributes to the Oʻahu monitoring project.
 
 jakereic\[at\]hawaii.edu
-:::
 
-:::
+</div>
+::::
 
-***
+------------------------------------------------------------------------
 
-::: {.column-page}
-::: {layout="[1,1]" layout-valign="center"}
-
+::::::::::: column-page
+:::: {layout="[1,1]" layout-valign="center"}
 ![](files/sls.jpg)
 
-::: {}
+<div>
+
 ### Sherril Leon Soon
+
 #### HIMARC Program Manager
 
 Dr. Sherril Leon Soon is the Research Program Manager of our HIMARC (Hawaiʻi Monitoring and Reporting Collaborative) Core Team. She hails from Trinidad and Tobago, and has called Hawaiʻi home since 2007. Sherril earned a PhD in Oceanography from UH Mānoa. Her research focused on the biophysical interactions between algae and flowing water on multiple scales, investigating dissolved nitrogen dynamics. Sherril has long been an avid advocate for applied science, interdisciplinary work, and community engagement in research, and looks forward to participating in HIMARC’s education initiatives. She brings her Environmental Science and Oceanography backgrounds to HIMARC, as well as a genuine love for mentoring and supporting underrepresented groups.
 
 leonsoon\[at\]hawaii.edu
-:::
 
-:::
+</div>
+::::
 
-***
+------------------------------------------------------------------------
 
-::: {.column-page}
-::: {layout="[1,1]" layout-valign="center"}
-
+:::::::: column-page
+:::: {layout="[1,1]" layout-valign="center"}
 ![](files/js.jpg)
 
-::: {}
+<div>
+
 ### Jayslen Serrano
+
 #### HIMARC Research Specialist
 
 Jayslen Serrano is a research specialist in the Donovan Lab. Jayslen is core staff for our HIMARC (Hawaiʻi Monitoring and Reporting Collaborative) program, conducting data integration and facilitating partner collaborations. She has a M.S. from California State University Northridge, where she did research with the Mo’orea Coral Reef Long Term Ecological Research Network in French Polynesia.
 
 jayslens\[at\]hawaii.edu
-:::
 
-:::
+</div>
+::::
 
-***
+------------------------------------------------------------------------
 
-::: {.column-page}
-::: {layout="[1,1]" layout-valign="center"}
-
+::::: column-page
+:::: {layout="[1,1]" layout-valign="center"}
 ![](files/jc.jpg)
 
-::: {}
+<div>
+
 ### Amy Carrillo
+
 #### HIMARC Research Specialist
 
 Amy Carrillo is the Geospatial Analyst on our HIMARC (Hawaiʻi Monitoring and Reporting Collaborative) Core Team. She holds a M.S. in Geoinformatics from CUNY Hunter College in New York City, where she was a NOAA Center For Earth System Sciences and Remote Sensing Technology (CESSRST) II Fellow. She has extensive experience utilizing GIS, stemming from her time at the NOAA Pacific Islands Regional Office, the NPS Boston Harbor Islands National Recreation Area, and the NYC Economic Development Corporation. Amy is passionate about spatial data analysis and storytelling through maps, and she strives to connect the scientific community and the public to enhance understanding of our natural world.
 
 amygcar\[at\]hawaii.edu
-:::
 
-:::
+</div>
+::::
 
-***
+------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 
@@ -167,3 +175,11 @@ Jeida Ostrowski - Undergraduate Student 2022
 Veronika Pearson - Undergraduate Student 2022
 
 Jade Fujii - Undergraduate Student 2023
+:::::
+::::::::
+:::::::::::
+::::::::::::::
+:::::::::::::::::
+::::::::::::::::::::
+:::::::::::::::::::::::
+::::::::::::::::::::::::::
