@@ -1,0 +1,30 @@
+---
+title: "Donovan Lab Code of Conduct"
+toc: false
+---
+
+**The spirit of the lab is welcoming, kind, and empathetic. We love what we do and this is reflected in the care we put into the quality of our work and the strength of our partnerships.**
+
+**We value collaboration.** The cornerstone of the Donovan Lab is our focus and commitment to collaboration and consensus building with partners. We recognize that the value of these collaborations extends beyond the end products we create together to also include the relationships developed and maintained along the way. We commit to persevere through the challenges of collaborative efforts, to create the best science together. 
+
+**We are supportive of one another.** Our goal is to foster collaboration within and outside the lab, in an effort to fight against competitiveness in academia – when one of us succeeds, we all succeed. We support each other by encouraging creativity, being generous with our time and ideas, giving credit to each other for our contributions, and celebrating success for everyone in our lab and our communities. While doing so, we are respectful of each other’s time and expertise.
+
+**We are committed to open, honest, and consistent communication.** We are available to one another, receptive to ideas and feedback, and attentive to each other’s needs.
+
+**Scientific integrity is vital to our work.** We produce high quality work equally in service of our field, our communities, and the broader public that is widely communicated and accessible. We acknowledge that we have an important role as scientists and do not manipulate, steal, or disguise data or results. We believe that reproducibility is fundamental to the progression of science; therefore, we strive for transparency by working openly in ways that are appropriate for our work.
+
+**We acknowledge our privileges and responsibilities.** We listen and learn, and engage with the communities and ecosystems we work in to serve them with respect and reciprocity. We acknowledge that our data collection, research, and applications are being conducted in Indigenous spaces, and we commit to supporting Indigenous peoples and movements in each of the geographies where we work, including respecting issues of data sovereignty and sharing.
+
+**We respect each other**. We have ZERO tolerance for harassment, discrimination, or bullying by and/or of members of our community in any form. If we unknowingly hurt or offend a member of our lab or community we will listen, offer apologies, and commit to learning and doing better. We also recognize there are unequal barriers in place that affect groups in the sciences differently, and we strive to acknowledge and contribute to improving these circumstances through our actions.
+
+Members of the lab and of our associated community who violate this code of conduct will be approached by Dr. Donovan. If necessary, the issue will be escalated to the relevant entities at University of Hawaiʻi at Mānoa. If you experience or observe a violation of this code of conduct, please contact Dr. Donovan. UH also provides resources and other modes for reporting [here](https://manoa.hawaii.edu/studentsuccess/office-of-student-conduct/).
+
+—————-
+
+Adapted from various documents available under CC BY 4.0, the Donovan Lab Code of Conduct is licensed under CC BY 4.0 by Dr. Mary Donovan and can be freely adopted or reproduced.
+
+—————--
+
+This code of conduct is a living document that is edited continuously to represent the values of past and current members of the lab. In the spirit of transparency that is part of our values, we archive previous versions of the code of conduct here: [v. 2020](/codeconduct_2020.qmd) [v. 2021](/codeconduct_2021.qmd) [v.2023](/codeconduct_2023.qmd)
+
+\

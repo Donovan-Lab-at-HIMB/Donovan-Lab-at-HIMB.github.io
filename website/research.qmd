@@ -1,0 +1,13 @@
+---
+title: "Publications"
+---
+
+# 2025
+
+John C, Silbiger NJ, Adam TC, Barnas DM, Bistolas KS, Carpenter RC, Castañeda N, Donahue MJ, [**Donovan MK**]{.underline}, Enright LN, Epstein HE, Gallagher JP, Jorissen H, Kerlin JR, Leidhold SL, McLachlan RH, Molina N, Mullenmeister CA, Neumann K, Renzi JJ, Silva DP, [**Speare KE**]{.underline}, Swift S, Vompe AD, Wegley Kelly L, Zeff M, Nelson CE, Vega Thurber R, Burkepile DE (2026) [Terrigenous inputs link nutrient dynamics to microbial communities in a tropical lagoon](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.70240). *Limnology and Oceanography* 70(12): 3741-3754
+
+[**Speare KE**]{.underline}, Burkepile DE, Adam TC, Lenihan HS, Winslow EM, Schmitt RJ, Holbrook SJ, [**Donovan MK**]{.underline} (2026) [Nitrogen enrichment determines coral mortality during a marine heatwave](https://www.sciencedirect.com/science/article/abs/pii/S0025326X25012342). *Marine Pollution Bulletin.* 222(2): 118758
+
+[**Pomeroy MW**]{.underline}, Couch C, Oliver T, McCarthy O, [**Speare KE**]{.underline}, [**Donovan MK**]{.underline} (2025) [Signs of resilience: survivorship and growth of corals in Hawaiʻi two years post-bleaching](https://www.int-res.com/abstracts/meps/v768/meps14918). *Marine Ecology Progress Series* 768:79-97
+
+[**Hennessey S**]{.underline}, Gove JM, [**Donovan MK**]{.underline} (2025) [Utility of indicator thresholds across spatial gradients for applications to ecosystem-based fisheries management](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70307). *Ecosphere* 16(7): e70307

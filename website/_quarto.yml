@@ -2,13 +2,22 @@ project:
   type: website
 
 website:
-  title: "website"
+  title: "Donovan Lab"
   navbar:
+    tools:
+      - icon: github
+        href: https://github.com/Donovan-Lab-at-HIMB
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
+      - href: research.qmd
         text: Publications
+      - href: people.qmd
+        text: People
+      - href: join.qmd
+        text: Join
+      - href: codeconduct.qmd
+        text: "Code of Conduct"
 
 format:
   html:
@@ -20,3 +29,5 @@ format:
 
 editor: visual
 
+execute:
+  freeze: auto
