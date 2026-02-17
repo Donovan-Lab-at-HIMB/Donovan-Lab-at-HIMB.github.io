@@ -1,11 +1,12 @@
 ---
-title: "website"
+title: "Donovan Lab"
+subtitle: "Hawaiʻi Institute of Marine Biology"
 ---
 
-Testing
+<!-- ![](files/zebrasoma_wide.jpg) -->
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+The Donovan Lab incorporates quantitative spatial ecology, resilience theory, field ecology, data synthesis, and statistical modeling to generate insights into the function and resilience of social-ecological systems. We collect and analyze data from remote sensing, ecological monitoring, and social and economic surveys. Our work is in close collaboration with conservation practitioners around the world working to conserve coral reefs.
 
-```{r}
-1 + 1
-```
+We are part of the [Hawai‘i Institute of Marine Biology](https://himb.hawaii.edu/) at the University of Hawai‘i at Mānoa. We are located in Kāneʻohe, HI with current research projects in Hawaiʻi, French Polynesia, the Caribbean, and globally.
+
+The Donovan Lab also hosts the [Hawai‘i Monitoring and Reporting Collaborative (HIMARC)](https://www.himarc.org/)
