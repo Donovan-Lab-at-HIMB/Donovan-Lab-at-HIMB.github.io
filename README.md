@@ -1,2 +1,3 @@
-# Donovan-Lab-at-HIMB.github.io
-Website for Donovan Lab at HIMB (root)
+# Repo for Donovan Lab website
+
+Visit our website at <https://donovan-lab-at-himb.github.io/>
