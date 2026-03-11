@@ -99,25 +99,6 @@ jakereic\[at\]hawaii.edu
 
 ------------------------------------------------------------------------
 
-::::::::::: column-page
-:::: {layout="[1,1]" layout-valign="center"}
-![](files/sls.jpg)
-
-<div>
-
-### Sherril Leon Soon
-
-#### HIMARC Program Manager
-
-Dr. Sherril Leon Soon is the Research Program Manager of our HIMARC (Hawaiʻi Monitoring and Reporting Collaborative) Core Team. She hails from Trinidad and Tobago, and has called Hawaiʻi home since 2007. Sherril earned a PhD in Oceanography from UH Mānoa. Her research focused on the biophysical interactions between algae and flowing water on multiple scales, investigating dissolved nitrogen dynamics. Sherril has long been an avid advocate for applied science, interdisciplinary work, and community engagement in research, and looks forward to participating in HIMARC’s education initiatives. She brings her Environmental Science and Oceanography backgrounds to HIMARC, as well as a genuine love for mentoring and supporting underrepresented groups.
-
-leonsoon\[at\]hawaii.edu
-
-</div>
-::::
-
-------------------------------------------------------------------------
-
 :::::::: column-page
 :::: {layout="[1,1]" layout-valign="center"}
 ![](files/js.jpg)
@@ -167,6 +148,8 @@ Shannon Hennessey - Postdoc 2021-2023
 Steven Manaʻoakamai Johnson - Postdoc 2021-2022
 
 Ellie Jones - HIMARC Research Specialist 2021-2023
+
+Sherril Leon Soon - HIMARC Program Manager 2024-2026
 
 Rachel Layko - MS Student - 2021-2024
 
